@@ -11,6 +11,9 @@ namespace BecomingU
 {
     public class WebApiApplication : System.Web.HttpApplication
     {
+        /// <summary>
+        /// Apps
+        /// </summary>
         protected void Application_Start()
         {
             AreaRegistration.RegisterAllAreas();

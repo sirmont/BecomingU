@@ -190,5 +190,5 @@ ModelManifest.xml
 
 
 #Web.configs 
-Web.Debug.config
-Web.Release.config
+*.Debug.config
+*.Release.config
